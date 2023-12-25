@@ -1,16 +1,18 @@
 import About from "@/components/about"
+import Footer from "@/components/footer"
 import Hero from "@/components/hero"
 import Parallax from "@/components/parallax"
 import Projects from "@/components/projects"
 
 const Page = () => {
 	return (
-		<div className="">
+		<main className="">
 			<Hero />
-			<Parallax />
 			<About />
-			<Projects />
-		</div>
+			{/* <Projects /> */}
+			<Parallax />
+			<Footer />
+		</main>
 	)
 }
 

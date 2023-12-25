@@ -21,7 +21,7 @@ export default function RootLayout({
 			<LenisProvider>
 				<body
 					className={cn(
-						"relative overflow-x-hidden",
+						"relative overflow-x-hidden bg-gray-900 text-white",
 						asap.className
 					)}
 				>

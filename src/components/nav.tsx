@@ -21,7 +21,7 @@ const Nav = () => {
 				<Menu />
 			</div>
 
-			{/* <div className=" fixed bottom-8 left-4 space-y-2 z-40">
+			<div className=" fixed bottom-8 left-4 space-y-2 z-40">
 				<Magnetic>
 					<FaFacebookF />
 				</Magnetic>
@@ -34,7 +34,7 @@ const Nav = () => {
 				<Magnetic>
 					<FaXTwitter />
 				</Magnetic>
-			</div> */}
+			</div>
 		</div>
 	)
 }

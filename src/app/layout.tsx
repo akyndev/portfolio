@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 	keywords:
 		"Full - Stack Developer, Shopify Theme Development, WooCommerce, E- commerce, Next.js, React, TypeScript, JavaScript, Prisma, Tailwind CSS, MongoDB, PostgreSQL, Shadcn, Web Development, Mobile Development",
 	openGraph: {
-		title: "AcAkinlade Joseph | web Developerme",
+		title: "Akinlade Joseph | web Developer",
 		description:
 			"Experienced Full-Stack Developer specializing in Shopify theme development, WooCommerce, and E-commerce solutions. Proficient in Next.js, React, TypeScript, JavaScript, Prisma, Tailwind CSS, MongoDB, PostgreSQL, and Shadcn for creating innovative and visually appealing web and mobile applications. Let's turn your ideas into extraordinary online experiences.",
 		url: "https://www.akyn.dev"

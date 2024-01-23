@@ -5,15 +5,15 @@ import Parallax from "@/components/parallax"
 import Projects from "@/components/projects"
 
 const Page = () => {
-	return (
-		<main className="">
-			<Hero />
-			<About />
-			{/* <Projects /> */}
-			<Parallax />
-			<Footer />
-		</main>
-	)
+  return (
+    <main className="">
+      <Hero />
+      <About />
+      {/* <Projects /> */}
+      <Parallax />
+      <Footer />
+    </main>
+  )
 }
 
 export default Page

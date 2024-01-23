@@ -34,13 +34,8 @@ const Parallax = ({ children }: Props) => {
 		}
 	})
 	return (
-		<div
-			ref={mainRef}
-			id="parallax-trigger"
-			className="relative h-max bg-black/60"
-		>
+		<div ref={mainRef} id="parallax-trigger" className="relative h-max bg-black/60">
 			<Projects />
-			<div className="parallax absolute top-0 bottom-0 -z-10 bg-cover bg-no-repeat bg-center h-full w-full bg-[url(https://picsum.photos/1600/800?random=0)]" />
 		</div>
 	)
 }
